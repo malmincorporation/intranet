@@ -2,9 +2,7 @@
 Rest API Template in PHP
 
 ## Made by:
-Johann Malm
-Malm inc
-www.malminc.com
+Johann Malm | Malm inc | www.malminc.com
 
 1. Download the Rest API Template in PHP
 2. Add it to a local or public server
