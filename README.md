@@ -1,10 +1,10 @@
-# Rest API Template in PHP
+# Intranet in PHP
 
 ## Made by:
 Johann Malm | Malm inc | www.malminc.com
 
 ## Download, install and participate
-1. Download the Rest API Template in PHP
+1. Download the Intranet in PHP
 2. Add it to a local or public server
 3. Add the .env file
 4. Write the settings for your database for each particular server in the .env file
