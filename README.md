@@ -4,6 +4,7 @@ Rest API Template in PHP
 ## Made by:
 Johann Malm | Malm inc | www.malminc.com
 
+## Download, install and participate
 1. Download the Rest API Template in PHP
 2. Add it to a local or public server
 3. Change the .env file to the settings for your database for each particular server
