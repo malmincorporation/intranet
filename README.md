@@ -1,5 +1,4 @@
-# rest
-Rest API Template in PHP
+# Rest API Template in PHP
 
 ## Made by:
 Johann Malm | Malm inc | www.malminc.com
