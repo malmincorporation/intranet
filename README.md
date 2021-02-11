@@ -13,7 +13,9 @@ www.malminc.com
 5. Use it to build something cool or participate in the development
 
 * The .env file content format:
+```
 MYSQL_HOST="127.0.0.1"
 MYSQL_DATABASE="rest"
 MYSQL_USERNAME="application"
 MYSQL_PASSWORD="secret"
+```
